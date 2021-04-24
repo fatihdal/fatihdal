@@ -12,7 +12,7 @@
 ## 🛠 Technologies & Tools 
 <img alt="fatihdal | Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img alt="fatihdal | Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
-<br><img alt="fatihdal | Docker" width="170px" height="27px" src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"></img>
+<br>&emsp;&emsp;<img alt="fatihdal | Docker" src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"></img>
 
 [twitter]:https://twitter.com/FFTHDL
 [linkedin]:https://linkedin.com/in/fatihdal

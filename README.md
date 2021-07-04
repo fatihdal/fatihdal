@@ -1,6 +1,3 @@
-### Hi there, I'm Fatih 👋
-
-
 - 🌱 I’m currently learning everything
 
 ### Contact with me:

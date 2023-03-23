@@ -13,6 +13,5 @@
 <br><img alt="fatihdal | Visual Studio Code" src="https://img.shields.io/badge/-VS%20CODE-blue?style=for-the-badge&logo=visual-studio&logoColor=white"></img>
 <img alt="fatihdal | Intellij idea" src="https://img.shields.io/badge/-INTELLIJ-436eee?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
 
-[twitter]:https://twitter.com/FFTHDL
 [linkedin]:https://linkedin.com/in/fatihdal
 [gmail]:mailto:ffatihdal@gmail.com

@@ -4,7 +4,6 @@
 
 [<img alt="fatihdal | LinkedIn" src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="fatihdal | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img alt="fatihdal | Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 ## 🛠 Technologies & Tools 
 <img alt="fatihdal | Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
